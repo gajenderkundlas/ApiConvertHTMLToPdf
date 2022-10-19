@@ -1,6 +1,8 @@
 ﻿Please follow the steps to run the application:
-1. Run the code and it will open swagger to use generate pdf method.
-2. Click on authorize and fill api key. Test api key is : 9b0c0dcf118741ff8e40d06da97da8cc
+1. Change connection string in appsetting.json file and also change email settings.
+2. Run the code and it will open 2 projects one is swagger to use generate pdf method and one is signin and signup web app.
+3. Use signup page to create new account and check your email link for verification.
+2. After verification click on signin and you will see apikey and api project swagger.Click on authorize and fill api key.
 3. Click on try and then paste the html in html parameter.
 4. Passphrase used to protect the pdf, leave blank if you dont want to use password for pdf.
 5. Use below sample inputs 
