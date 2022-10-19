@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\TestApp1\TestAppDataAccess\bin\Debug\net6.0\TestAppDataAccess.deps.json
+C:\Users\Acer\source\repos\TestApp1\TestAppDataAccess\bin\Debug\net6.0\TestAppDataAccess.runtimeconfig.json
+C:\Users\Acer\source\repos\TestApp1\TestAppDataAccess\bin\Debug\net6.0\TestAppDataAccess.dll
+C:\Users\Acer\source\repos\TestApp1\TestAppDataAccess\bin\Debug\net6.0\TestAppDataAccess.pdb
+C:\Users\Acer\source\repos\TestApp1\TestAppDataAccess\obj\Debug\net6.0\TestAppDataAccess.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\TestApp1\TestAppDataAccess\obj\Debug\net6.0\TestAppDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\TestApp1\TestAppDataAccess\obj\Debug\net6.0\TestAppDataAccess.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\TestApp1\TestAppDataAccess\obj\Debug\net6.0\TestAppDataAccess.AssemblyInfo.cs
+C:\Users\Acer\source\repos\TestApp1\TestAppDataAccess\obj\Debug\net6.0\TestAppDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\TestApp1\TestAppDataAccess\obj\Debug\net6.0\TestAppDataAccess.dll
+C:\Users\Acer\source\repos\TestApp1\TestAppDataAccess\obj\Debug\net6.0\refint\TestAppDataAccess.dll
+C:\Users\Acer\source\repos\TestApp1\TestAppDataAccess\obj\Debug\net6.0\TestAppDataAccess.pdb
+C:\Users\Acer\source\repos\TestApp1\TestAppDataAccess\obj\Debug\net6.0\TestAppDataAccess.genruntimeconfig.cache
+C:\Users\Acer\source\repos\TestApp1\TestAppDataAccess\obj\Debug\net6.0\ref\TestAppDataAccess.dll

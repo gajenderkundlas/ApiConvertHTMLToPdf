@@ -1,0 +1,74 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    
+}
+@model TestAppServices.UserService.Dto.UserDto
+<div class="row">
+    <div class="col-12 login-box">
+        <form asp-controller="User" asp-action="CreateAccount">
+           
+            <div class="mb-3">
+                <div class="row">
+                    <div class="col-sm-12 align-center">
+                        <h4>Test App Signup</h4>
+                    </div>
+                </div>
+            </div>
+            <div class="mb-3">
+                <div class="row">
+                    <div class="col-sm-12 align-center">
+                        <div class="text-red">
+                            @ViewBag.error
+                            @Html.ValidationSummary(true)
+                        </div>
+                    </div>
+                </div>
+            </div>
+           
+            <div class="mb-3">
+                <div class="row">
+                    <div class="col-sm-3">
+                        <label class="form-label align-items-end">Name</label>
+                    </div>
+                    <div class="col-sm-9">
+                        <input type="text" asp-for="Name" class="form-control">
+                        @Html.ValidationMessageFor(x=>x.Name,"",new { @class="text-red"})
+                    </div>
+                </div>
+            </div>
+            <div class="mb-3">
+                <div class="row">
+                    <div class="col-sm-3 align-items-end">
+                        <label class="form-label">Email address</label>
+                    </div>
+                    <div class="col-sm-9">
+                        <input type="email" asp-for="UserName" class="form-control">
+                        @Html.ValidationMessageFor(x=>x.UserName,"",new { @class="text-red"})
+                    </div>
+                </div>
+            </div>
+            <div class="mb-3">
+                <div class="row">
+                    <div class="col-sm-3 align-items-end">
+                        <label class="form-label">Password</label>
+                    </div>
+                    <div class="col-sm-9">
+                        <input type="password" asp-for="Password" class="form-control">
+                        @Html.ValidationMessageFor(x=>x.Password,"",new { @class="text-red"})
+                    </div>
+                </div>
+            </div>
+            <div class="mb-3">
+                <div class="row">
+                    <div class="col-sm-3">
+                    </div>
+                    <div class="col-sm-9  text-start">
+                        <button type="submit" class="btn btn-primary">Signup</button>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>

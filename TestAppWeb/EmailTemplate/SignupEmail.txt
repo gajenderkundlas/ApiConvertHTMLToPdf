@@ -1,0 +1,5 @@
+﻿<p>Hi {{name}}</p>
+<br/>
+<br/>
+<p>Thank you signup in test app. Please click on below link for</p>
+<a href="http://localhost:5192/User/VerifyUser?token={{verificationtoken}}">Click here for verification.</a>

@@ -1,0 +1,47 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+.service-background {
+    background-image:url("../Image/pdf-conversion-services.jpg");
+}
+.login-box {
+    width:550px;
+    margin:150px auto;
+}
+.align-center {
+    text-align:center;
+}
+.align-left {
+    text-align: left;
+}
+.align-right {
+    text-align: right;
+}
+.bold{
+    font-weight:bold;
+}
+.text-red {
+    color:red;
+}
+.ml-auto {
+    position:fixed !important;
+    right: 100px;
+}
+    .ml-auto li {
+        width:150px;
+    }

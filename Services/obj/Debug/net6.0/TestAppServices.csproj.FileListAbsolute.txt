@@ -1,0 +1,15 @@
+C:\Users\Acer\source\repos\TestApp1\Services\obj\Debug\net6.0\TestAppServices.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\TestApp1\Services\obj\Debug\net6.0\TestAppServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\TestApp1\Services\obj\Debug\net6.0\TestAppServices.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\TestApp1\Services\obj\Debug\net6.0\TestAppServices.AssemblyInfo.cs
+C:\Users\Acer\source\repos\TestApp1\Services\obj\Debug\net6.0\TestAppServices.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\TestApp1\Services\bin\Debug\net6.0\TestAppServices.deps.json
+C:\Users\Acer\source\repos\TestApp1\Services\bin\Debug\net6.0\TestAppServices.dll
+C:\Users\Acer\source\repos\TestApp1\Services\bin\Debug\net6.0\TestAppServices.pdb
+C:\Users\Acer\source\repos\TestApp1\Services\bin\Debug\net6.0\TestAppDataAccess.dll
+C:\Users\Acer\source\repos\TestApp1\Services\bin\Debug\net6.0\TestAppDataAccess.pdb
+C:\Users\Acer\source\repos\TestApp1\Services\obj\Debug\net6.0\TestAppServices.csproj.CopyComplete
+C:\Users\Acer\source\repos\TestApp1\Services\obj\Debug\net6.0\TestAppServices.dll
+C:\Users\Acer\source\repos\TestApp1\Services\obj\Debug\net6.0\refint\TestAppServices.dll
+C:\Users\Acer\source\repos\TestApp1\Services\obj\Debug\net6.0\TestAppServices.pdb
+C:\Users\Acer\source\repos\TestApp1\Services\obj\Debug\net6.0\ref\TestAppServices.dll
