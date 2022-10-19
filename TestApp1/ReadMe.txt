@@ -1,4 +1,5 @@
 ﻿Please follow the steps to run the application:
+Open solution in VS-2022, below versions are not supported. 
 1. Change connection string in appsetting.json file and also change email settings.
 2. Run the code and it will open 2 projects one is swagger to use generate pdf method and one is signin and signup web app.
 3. Use signup page to create new account and check your email link for verification.
@@ -22,4 +23,3 @@ Configuration that need to know:
 In appsetting you can change domain and apikey for live hosting or custom key change.
 
 
-Thanks 
